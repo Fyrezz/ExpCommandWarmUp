@@ -1,0 +1,5 @@
+name: ExpCommandWarmUp
+main: net.fyrezz.me.expcommandwarmup.Main
+version: 1.0.0
+commands:
+  checkwarmup:

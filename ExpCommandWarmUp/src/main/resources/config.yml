@@ -1,0 +1,31 @@
+# ExpCommandWarmUp by Fyrezz
+# Report bugs @ https://github.com/Fyrezz/ExpCommandWarmUp/issues
+# Spigot resource link https://www.spigotmc.org/resources/experience-command-warmup.66213/
+
+# You like it? Feel free to contact me
+# for any custom plugin :) Fyrezz.3163
+
+# Regardless of player's level, warm-up for
+# commands will always be at least this (in seconds)
+minwarmup: 1.00
+
+# Regardless of player's level, warm-up for
+# commands will never be more than this (in seconds)
+maxwarmup: 5.00
+
+# Multiplier applied to player's level. For example:
+# IF Player's Lvl = 10, REDUCTION = 10*0.15 = 1.5 secs
+# In case MAXWARM-UP = 5.00, WARM-UP would be 3.5 secs
+reductionperlevel: 0.15
+
+# Warm-up will be applied to all commands listed
+# down below. Remember to block "essentials:" or
+# any other "plugin:" command.
+commands:
+  - 'spawn'
+  - 'espawn'
+  - 'warp test'
+  - 'ewarp test'
+  - 'kit test'
+  - 'ekit test'
+  - 'xpbottle'
