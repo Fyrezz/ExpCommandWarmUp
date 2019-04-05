@@ -1,4 +1,15 @@
+# ExpCommandWarmUp by Fyrezz
+# Report bugs @ https://github.com/Fyrezz/ExpCommandWarmUp/issues
+# Spigot resource link https://www.spigotmc.org/resources/experience-command-warmup.66213/
+
+# You like it? Feel free to contact me
+# for any custom plugin :) Fyrezz.3163
+
+# Prefix for all messages
 prefix: '&b&l&nExp&7&l&n&oCmdWarmUp'
+
+# Message on warm-up start
 warmupstarted: 'Your warm-up has started'
+
+# /checkwarmup returns...
 warmupinfo: 'Your EXP LEVEL provides a warm-up of '
-opbypass: 'Bypassing Command Warm up...'
